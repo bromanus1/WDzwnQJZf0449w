@@ -20,9 +20,9 @@ http://4.team.ga:80/ch2453/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfdMi2e8
 #EXTGRP:1. Federal/Федеральные
 http://4.team.ga:80/ch023/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJeZKhOs5PXhBOA0ovmFcAb_abIVJXth8qeWtCTgAjxDn
 
-#EXTINF:0 tvg-id="РБК НD"  tvg-logo="http://team.ga/images/chIcons/99.png"  timeshift="0", РБК НD
-#EXTGRP:2. News/Новости
-http://4.team.ga:80/ch099/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVmxBtYoH2pk3hirrdVCTHRzHXxzg0mYLGRN9OK22kTC
+#EXTINF:0 tvg-id="Мужской"  tvg-logo="http://team.ga/images/chIcons/522.png"  timeshift="3", Мужской
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch522/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUBG3qnfCSSLL1rPXHxJ-OL3nAmZC1_kH9BhmgFcOEnn
 
 #EXTINF:0 tvg-id="Усадьба"  tvg-logo="http://team.ga/images/chIcons/504.png"  timeshift="3", Усадьба
 #EXTGRP:11. Nature/Природа
@@ -44,6 +44,3 @@ http://4.team.ga:80/ch123/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJe_5B-rRF
 #EXTGRP:10. Educational/Образование
 http://4.team.ga:80/ch125/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJf7jWtUG88403gtrfw8b1xASq91K4gOkWqrBVug7Mh_G
 
-#EXTINF:0 tvg-id="Мужской"  tvg-logo="http://team.ga/images/chIcons/522.png"  timeshift="3", Мужской
-#EXTGRP:10. Educational/Образование
-http://4.team.ga:80/ch522/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUBG3qnfCSSLL1rPXHxJ-OL3nAmZC1_kH9BhmgFcOEnn
