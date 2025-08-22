@@ -1,0 +1,49 @@
+#EXTM3U generation-date="2025.06.09 03:01:56 MSK" url-tvg="http://epg.team/tvteam.3.1.xml"
+
+#EXTINF:0 tvg-id="Первый"  tvg-logo="http://team.ga/images/chIcons/1643.png"  timeshift="6", Первый
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch1643/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJTyi6Ne6wDqFVKxv4uMOjYLZtj00Ykqn63oibkjXZLTz
+
+#EXTINF:0 tvg-id="Россия 1"  tvg-logo="http://team.ga/images/chIcons/1644.png"  timeshift="6", Россия 1
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch1644/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJX3Ov4QfSMypKQSJUu_A_Qlusn83m0jehY62S-siYKGF
+
+#EXTINF:0 tvg-id="Рен ТВ HD"  tvg-logo="http://team.ga/images/chIcons/4.png"  timeshift="6", Рен ТВ HD
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch004/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJQVHSW6uUPOyLerzUNb_ZTobYhfunTEJDjyRxLFui_rq
+
+#EXTINF:0 tvg-id="НТВ"  tvg-logo="http://team.ga/images/chIcons/2453.png"  timeshift="6", НТВ
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch2453/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfdMi2e8epNgVRCrM_xW8NFwA42Y-ZWyJnEXExwfz0Nn
+
+#EXTINF:0 tvg-id="Звезда"  tvg-logo="http://team.ga/images/chIcons/23.png"  timeshift="6", Звезда
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch023/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJeZKhOs5PXhBOA0ovmFcAb_abIVJXth8qeWtCTgAjxDn
+
+#EXTINF:0 tvg-id="РБК НD"  tvg-logo="http://team.ga/images/chIcons/99.png"  timeshift="0", РБК НD
+#EXTGRP:2. News/Новости
+http://4.team.ga:80/ch099/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVmxBtYoH2pk3hirrdVCTHRzHXxzg0mYLGRN9OK22kTC
+
+#EXTINF:0 tvg-id="Усадьба"  tvg-logo="http://team.ga/images/chIcons/504.png"  timeshift="3", Усадьба
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch504/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdudB8K8FLak2LK96bRFBXviFUfsPCCnfp8n6xBbKhWH
+
+#EXTINF:0 tvg-id="Nat Geo Wild HD"  tvg-logo="http://team.ga/images/chIcons/47.png"  timeshift="3", Nat Geo Wild HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch047/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZVjFmBwYqniAktECwWs8O2uq5k-LoWo2_AySfWcHBBs
+
+#EXTINF:0 tvg-id="Охота и рыбалка"  tvg-logo="http://team.ga/images/chIcons/448.png"  timeshift="3", Охота и рыбалка
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch448/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJR6N8PvJBRfNPMe1P5ANNwuM-_z1QJxzhccovn_qRu02
+
+#EXTINF:0 tvg-id="Discovery Channel HD"  tvg-logo="http://team.ga/images/chIcons/123.png"  timeshift="3", Discovery Channel HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch123/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJe_5B-rRF5fFym_7qxYVNNu7xk3A6cR0rJmh0aUP7AQE
+
+#EXTINF:0 tvg-id="National Geographic HD"  tvg-logo="http://team.ga/images/chIcons/125.png"  timeshift="3", National Geographic HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch125/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJf7jWtUG88403gtrfw8b1xASq91K4gOkWqrBVug7Mh_G
+
+#EXTINF:0 tvg-id="Мужской"  tvg-logo="http://team.ga/images/chIcons/522.png"  timeshift="3", Мужской
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch522/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUBG3qnfCSSLL1rPXHxJ-OL3nAmZC1_kH9BhmgFcOEnn
